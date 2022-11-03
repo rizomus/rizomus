@@ -1,3 +1,2 @@
-Student
+Junior ML engineer
 
-Learning Data Science, AI, Python
