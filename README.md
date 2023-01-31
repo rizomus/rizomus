@@ -1,2 +1,2 @@
-Junior ML engineer
+Data scientist, ML engineer
 
