@@ -1,2 +1,2 @@
-Data scientist, ML engineer
+Java developer, Data scientist.
 
